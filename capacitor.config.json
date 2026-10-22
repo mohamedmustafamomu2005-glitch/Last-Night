@@ -1,0 +1,8 @@
+{
+  "appId": "com.nightfall.lastnight",
+  "appName": "NIGHTFALL",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
